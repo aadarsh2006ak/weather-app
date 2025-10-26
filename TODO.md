@@ -1,0 +1,2 @@
+- [x] Update Footer.js: Add GitHub link for username aadarsh2006ak
+- [x] Update Footer.css: Style the GitHub link appropriately
